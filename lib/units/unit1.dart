@@ -29,7 +29,7 @@ class RERUnit1 {
     "17-The percentage of the incoming radiation reflected back to space by the earth is",
     "18-For 1 degree change in longitude, the change in solar time is",
     "19-In extraterrestrial radiation, what is the approximatepercentage content of infra-red component?",
-    "20-Diffused radiation",
+    "20-Diffused radiation radiation",
   ];
 
   var choices = [
