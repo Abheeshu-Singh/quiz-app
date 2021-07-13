@@ -1,0 +1,11 @@
+{
+    "dart.analyzerInstrumentationLogFile": null,
+    "dart.env": {
+      
+    },
+    "dart.webDaemonLogFile": null,
+    "[dart]": {
+        "editor.defaultFormatter": "Dart-Code.dart-code",
+        "editor.formatOnSave": true,
+    }
+}
